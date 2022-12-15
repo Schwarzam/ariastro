@@ -11,5 +11,8 @@ ariastro.egg-info
 __pycache__
 .#*
 
+galfitm-1.4.4*
+*fits.fz
+
 *bak
 .idea
